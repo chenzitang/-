@@ -12,7 +12,7 @@ https://github.com/chenzitang/-/pull/1#issue-comment-box
 # 开源
 >本软件开源仅供学习与参考！二改请注明！
 
-[点击链接跳转下载]
+[[点击下载]]
 (https://hjtd.lanzoui.com/ioNTlng810d)
 
 也可以在我的库中找到：
